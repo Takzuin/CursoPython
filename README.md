@@ -1,5 +1,6 @@
 # CursoPython 🐍
 
+
 Bienvenido al **CursoPython**, un repositorio diseñado para que cualquier persona, sin importar su nivel de experiencia, aprenda los fundamentos de la programación con Python. 🚀
 
 ---
