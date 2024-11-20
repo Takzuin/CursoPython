@@ -61,7 +61,7 @@ El objetivo de este curso es:
 ¿Tienes ideas para mejorar este curso? ¿Encontraste un error? ¡Contribuye con un PR o abre un issue! 👩‍💻👨‍💻
 📞 Contacto
 
-Creador: @takzuin
+Creador: - [PyCharm](https://www.github.com/takzuin)
 Si tienes preguntas o sugerencias, no dudes en contactarme.
 
 ¡Comencemos a aprender Python juntos! 🐍✨
