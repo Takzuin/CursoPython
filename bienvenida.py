@@ -41,6 +41,7 @@ def mostrar_bienvenida():
     print("📁 02-Variables&Tipos/    → Variables y tipos de datos")
     print("📁 03-Control-de-Flujo/   → If/else y bucles")
     print("📁 04-Funciones/          → Funciones y parámetros")
+    print("📁 ... y mucho más! (POO, Archivos, Estructuras de Datos)")
     print()
     print("Cada carpeta contiene:")
     print("  • README.md - Introducción al módulo")
