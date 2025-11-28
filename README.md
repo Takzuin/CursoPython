@@ -33,6 +33,7 @@ El curso está dividido en módulos que van desde lo básico hasta temas más av
 | [06-Manejo-de-Errores](06-Manejo-de-Errores/) | Excepciones y buenas prácticas | 🚧 En progreso |
 | [07-Archivos](07-Archivos/) | Lectura y escritura de archivos | 🚧 En progreso |
 | [08-Proyectos](08-Proyectos/) | Mini-proyectos prácticos | 🚧 En progreso |
+| [09-POO](09-POO/) | Programación Orientada a Objetos | ✅ Completo |
 
 ---
 
